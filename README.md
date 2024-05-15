@@ -6,24 +6,30 @@ Face Registration: Users can register their faces by capturing multiple images t
 Automated Attendance: The system uses pre-trained machine learning models to recognize faces and mark attendance automatically.
 Web Interface: A simple web interface provides access to attendance records and user management functionalities.
 Real-time Updates: Attendance records are updated in real-time as users are recognized.
-Installation
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/your_username/facial-recognition-attendance.git
-Navigate to the project directory:
-bash
-Copy code
-cd facial-recognition-attendance
-Install dependencies:
-bash
-Copy code
-pip install -r requirements.txt
+## Installation
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/your_username/facial-recognition-attendance.git
+2. **Navigate to the project directory:**
+
+   ```bash
+   cd facial-recognition-attendance
+
+3. **Install dependencies:**
+
+   ```bash
+   pip install -r requirements.txt
+
 Usage
-Start the application:
-bash
-Copy code
-python app.py
+## Usage
+
+1. **Start the application:**
+
+   ```bash
+   python app.py
+
 Access the web interface through a browser at http://localhost:5000/.
 
 Register new users by navigating to the "Add User" page and capturing their images.
@@ -39,15 +45,7 @@ OpenCV
 scikit-learn
 NumPy
 pandas
-Contributors
-Your Name
-Contributor 1
-Contributor 2
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 Acknowledgements
 The Haar cascade classifier for face detection is sourced from OpenCV.
 Training data for face recognition is provided by the users during registration.
-Demo
-Link to Demo Video (if available)
