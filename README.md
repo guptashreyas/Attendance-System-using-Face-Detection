@@ -47,5 +47,6 @@ NumPy
 pandas
 
 Acknowledgements
-The Haar cascade classifier for face detection is sourced from OpenCV.
-Training data for face recognition is provided by the users during registration.
+
+->The Haar cascade classifier for face detection is sourced from OpenCV.
+->Training data for face recognition is provided by the users during registration.
