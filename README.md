@@ -32,11 +32,11 @@ Usage
 
 Access the web interface through a browser at http://localhost:5000/.
 
-Register new users by navigating to the "Add User" page and capturing their images.
+->Register new users by navigating to the "Add User" page and capturing their images.
 
-Initiate the attendance capture process by clicking on the "Start Attendance" button on the home page. Ensure that a webcam is connected and functioning properly.
+->Initiate the attendance capture process by clicking on the "Start Attendance" button on the home page. Ensure that a webcam is connected and functioning properly.
 
-View attendance records on the home page. Records are automatically saved to a CSV file in the Attendance directory.
+->View attendance records on the home page. Records are automatically saved to a CSV file in the Attendance directory.
 
 Technologies Used
 Python
