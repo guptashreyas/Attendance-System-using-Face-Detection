@@ -51,3 +51,6 @@ Acknowledgements
 
 ->The Haar cascade classifier for face detection is sourced from OpenCV.
 ->Training data for face recognition is provided by the users during registration.
+
+Contribution
+"Attendance System Using Face Detection - Minor Project by @harshitajain212 and Shreyas Gupta"
