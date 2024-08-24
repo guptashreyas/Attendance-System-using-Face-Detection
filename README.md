@@ -53,4 +53,4 @@ Acknowledgements
 ->Training data for face recognition is provided by the users during registration.
 
 Contribution
-"Attendance System Using Face Detection - Minor Project by [@harshitajain212](https://github.com/harshitajain212) and Shreyas Gupta"
+"Attendance System Using Face Detection - Minor Project by [Harshita Jain](https://github.com/harshitajain212) and Shreyas Gupta"
